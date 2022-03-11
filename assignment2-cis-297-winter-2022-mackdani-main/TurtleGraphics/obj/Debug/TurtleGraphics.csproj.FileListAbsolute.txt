@@ -1,0 +1,14 @@
+C:\csharp\CIS297\Week3\sol_ch08\ex08_21\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+C:\csharp\CIS297\Week3\sol_ch08\ex08_21\TurtleGraphics\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+C:\csharp\CIS297\Week3\sol_ch08\ex08_21\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csprojAssemblyReference.cache
+C:\csharp\CIS297\Week3\sol_ch08\ex08_21\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CoreCompileInputs.cache
+C:\csharp\CIS297\Week3\sol_ch08\ex08_21\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+C:\csharp\CIS297\Week3\sol_ch08\ex08_21\TurtleGraphics\TurtleGraphics\obj\Debug\TurtleGraphics.pdb
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.AssemblyReference.cache
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.CoreCompileInputs.cache
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+C:\Users\MackD\Downloads\assignment2-cis-297-winter-2022-mackdani-main\TurtleGraphics\obj\Debug\TurtleGraphics.pdb
